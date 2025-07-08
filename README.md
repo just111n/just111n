@@ -36,7 +36,7 @@ I’m a software developer with a keen interest in **full-stack development, mac
 
 ### 📫 **How to Reach Me**
 📧 Email: justinlooijw@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/justin-looi-jw/
+💼 LinkedIn: www.linkedin.com/in/justin-looi-jw/  
 🌐 Portfolio: https://developer-portfolio-orpin-one.vercel.app/  
 
 ---
